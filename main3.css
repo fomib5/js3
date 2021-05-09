@@ -1,0 +1,28 @@
+.filter{
+    width: 700px;
+    padding: 10px;
+}
+input{
+    width: 692px;
+}
+.lists {
+    display: flow-root;
+    width: 98%;
+    padding: 1%;
+}
+.list {
+    float: left;
+    width: 46%;
+    border: 1px solid #888;
+    border-radius: 3px;
+    margin: 10px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 15px auto;
+}
+.hidden {
+    display: none;
+}
